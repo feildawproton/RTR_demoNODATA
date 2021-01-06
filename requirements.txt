@@ -1,0 +1,3 @@
+gensim
+pickle
+fetch_20newsgroups
